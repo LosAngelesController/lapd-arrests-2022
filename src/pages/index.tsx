@@ -31,6 +31,7 @@ const filterableRaces: any = {
 const filterableRacesKeys = Object.keys(filterableRaces);
 
 const filterableAreas: any = {
+  "77th Street": 4687,
   Central: 3767,
   Devonshire: 2501,
   Foothill: 2105,
@@ -38,20 +39,19 @@ const filterableAreas: any = {
   Hollenbeck: 2126,
   Hollywood: 3382,
   Mission: 3080,
+  "N Hollywood": 2778,
   Newton: 3494,
   Northeast: 2003,
-  "N Hollywood": 2778,
   Olympic: 2822,
   Pacific: 3550,
   Rampart: 5083,
-  "77th Street": 4687,
   Southeast: 3145,
   Southwest: 3091,
   Topanga: 2594,
+  "Van Nuys": 3296,
   "West LA": 3543,
   "West Valley": 2255,
   Wilshire: 1892,
-  "Van Nuys": 3296,
 };
 
 const filterableAreasKeys = Object.keys(filterableAreas);
