@@ -3,14 +3,17 @@ const navigationPayroll = [
   {
     name: "2019",
     url: "https://lapd-arrests-2019.vercel.app/",
+    newtab: true
   },
   {
     name: "2020",
     url: "https://lapd-arrests-2020.vercel.app/",
+    newtab: true
   },
   {
     name: "2021",
     url: "https://lapd-arrests-2021.vercel.app/",
+    newtab: true
   },
   {
     name: "2022",
@@ -19,7 +22,7 @@ const navigationPayroll = [
   {
     name: "Los Angeles Controller",
     url: "https://controller.lacity.gov",
-    newtab: true,
+    newtab: true
   },
 ];
 
