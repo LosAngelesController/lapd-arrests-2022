@@ -3,26 +3,26 @@ const navigationPayroll = [
   {
     name: "2019",
     url: "https://lapd-arrests-2019.vercel.app/",
-    newtab: true
+    newtab: true,
   },
   {
     name: "2020",
     url: "https://lapd-arrests-2020.vercel.app/",
-    newtab: true
+    newtab: true,
   },
   {
     name: "2021",
     url: "https://lapd-arrests-2021.vercel.app/",
-    newtab: true
+    newtab: true,
   },
   {
     name: "2022",
     url: "/",
   },
   {
-    name: "Los Angeles Controller",
+    name: "LA Controller",
     url: "https://controller.lacity.gov",
-    newtab: true
+    newtab: true,
   },
 ];
 
@@ -37,7 +37,7 @@ function Nav() {
             key={itemIdx}
             target={`${item.newtab === true ? "_blank" : ""}`}
           >
-            <p className="text-white py-2 text-sm md:text-base   md:py-3 px-6 block hover:text-green-300 focus:outline-none underline">
+            <p className="text-white py-2 text-sm md:text-base   md:py-3 px-3 block hover:text-green-300 focus:outline-none underline">
               {item.name}
             </p>
           </ActiveLink>
