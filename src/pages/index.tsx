@@ -1031,20 +1031,20 @@ const Home: NextPage = () => {
           <meta
             name="twitter:image"
             key="twitterimg"
-            content="https://lapd-arrests-2022.lacontroller.io/building-map.png"
+            content="https://2022arrests.lacontroller.io/lapd-arrests-2022.png"
           ></meta>
           <meta name="description" content="LAPD Arrests 2022." />
 
           <meta
             property="og:url"
-            content="https://lapd-arrests-2022.lacontroller.io"
+            content="https://2022arrests.lacontroller.io"
           />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="LAPD Arrests 2022 | Map" />
           <meta property="og:description" content="LAPD Arrests 2022." />
           <meta
             property="og:image"
-            content="https://lapd-arrests-2022.lacontroller.io/lapd-arrests-2022-map.png"
+            content="https://2022arrests.lacontroller.io/lapd-arrests-2022.png"
           />
         </Head>
 
