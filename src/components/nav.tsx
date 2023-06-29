@@ -22,6 +22,7 @@ const navigationPayroll = [
   {
     name: "Table",
     url: "https://docs.google.com/spreadsheets/d/1rH272RxRxU8ut3xArEnyOz2j_Qlw5ntEoTJlZwcx_Ng/edit?usp=sharing",
+    newtab: true,
   },
   {
     name: "LA Controller",
