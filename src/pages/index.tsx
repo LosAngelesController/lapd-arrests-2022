@@ -5,7 +5,6 @@ import { computeclosestcoordsfromevent } from "../components/getclosestcoordsfro
 import { CloseButton } from "../components/CloseButton";
 import { SelectButtons } from "@/components/SelectButtons";
 import { MapTitle } from "@/components/MapTitle";
-import { FilterButton } from "@/components/FilterButton";
 import { InfoCarousel } from "@/components/InfoCarousel";
 import { signintrack, uploadMapboxTrack } from "../components/mapboxtrack";
 import MapboxGeocoder from "@mapbox/mapbox-gl-geocoder";
