@@ -1055,7 +1055,7 @@ const Home: NextPage = () => {
         <div className="flex-initial h-content flex-col flex z-50">
           <div className="max-h-screen flex-col flex z-5">
             <div className="hidden sm:block">
-            <MapTitle />
+              <MapTitle />
             </div>
 
             <div
