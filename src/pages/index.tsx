@@ -1100,7 +1100,7 @@ const Home: NextPage = () => {
                     onClick={() => {
                       setfilterpanelopened(true);
                     }}
-                    className={`hidden md:block mt-2 rounded-full px-3 pb-1.5 pt-0.5 text-sm bold md:text-base 
+                    className={`hidden sm:block mt-2 rounded-full px-3 pb-1.5 pt-0.5 text-sm bold md:text-base 
                   bg-gray-800 bg-opacity-80 text-white border-white border-2`}
                   >
                     <svg
