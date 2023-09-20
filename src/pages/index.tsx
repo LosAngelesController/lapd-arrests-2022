@@ -988,17 +988,6 @@ const Home: NextPage = () => {
         withNormalizeCSS
       >
         <Head>
-          <link
-            rel="icon"
-            href="https://https://arrests.controller.io/cropped-favicon-1-32x32.png"
-            sizes="32x32"
-          />
-          <link
-            rel="icon"
-            href="https://arrests.controller.io/cropped-favicon-1-180x180.png"
-            sizes="180x1180"
-          />
-
           <meta charSet="utf-8" />
           <meta
             name="viewport"
