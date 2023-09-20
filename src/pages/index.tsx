@@ -990,21 +990,13 @@ const Home: NextPage = () => {
         <Head>
           <link
             rel="icon"
-            href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-32x32.png"
+            href="https://https://arrests.controller.io/cropped-favicon-1-32x32.png"
             sizes="32x32"
           />
           <link
             rel="icon"
-            href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-192x192.png"
-            sizes="192x192"
-          />
-          <link
-            rel="apple-touch-icon"
-            href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-180x180.png"
-          />
-          <meta
-            name="msapplication-TileImage"
-            content="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-270x270.png"
+            href="https://arrests.controller.io/cropped-favicon-1-180x180.png"
+            sizes="180x1180"
           />
 
           <meta charSet="utf-8" />
