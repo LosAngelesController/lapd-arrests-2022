@@ -20,7 +20,7 @@ export function computeclosestcoordsfromevent(
       }
     });
 
-    console.log("setofuniquepoints", setofuniquepoints);
+    // console.log("setofuniquepoints", setofuniquepoints);
 
     const distancesofuniquepoints: any = {};
 
