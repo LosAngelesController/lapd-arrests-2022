@@ -266,11 +266,11 @@ const Home: NextPage = () => {
   const divRef: any = React.useRef<HTMLDivElement>(null);
 
   const closeInfoBox = () => {
-    console.log("mapref.current", mapref.current);
-    console.log(
-      "mapref.current.getSource arrest-point",
-      mapref.current.getSource("arrest-point")
-    );
+    // console.log("mapref.current", mapref.current);
+    // console.log(
+    //   "mapref.current.getSource arrest-point",
+    //   mapref.current.getSource("arrest-point")
+    // );
 
     mapref.current.setLayoutProperty(
       "points-selected-arrests-layer",
