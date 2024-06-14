@@ -271,7 +271,7 @@ const Home: NextPage = () => {
     //   "mapref.current.getSource arrest-point",
     //   mapref.current.getSource("arrest-point")
     // );
-
+    //test
     mapref.current.setLayoutProperty(
       "points-selected-arrests-layer",
       "visibility",
